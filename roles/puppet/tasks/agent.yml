@@ -1,0 +1,5 @@
+---
+-  name: Instala o Puppet Agent
+   package:
+     name: puppet-agent
+     state: present

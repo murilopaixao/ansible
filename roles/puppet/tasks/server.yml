@@ -1,0 +1,5 @@
+---
+-  name: Instala o Puppet Server
+   package:
+     name: puppetserver
+     state: present
